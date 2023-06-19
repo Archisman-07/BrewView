@@ -1,0 +1,45 @@
+module.exports.descriptors = [
+    'Forest',
+    'Ancient',
+    'Petrified',
+    'Roaring',
+    'Cascade',
+    'Tumbling',
+    'Silent',
+    'Redwood',
+    'Bullfrog',
+    'Maple',
+    'Misty',
+    'Elk',
+    'Grizzly',
+    'Ocean',
+    'Sea',
+    'Sky',
+    'Dusty',
+    'Diamond'
+]
+
+module.exports.places = [
+    'Flats',
+    'Village',
+    'Canyon',
+    'Pond',
+    'Group Café',
+    'Horse Café',
+    'Ghost Town',
+    'Café',
+    'Dispersed Café',
+    'Backcountry',
+    'River',
+    'Creek',
+    'Creekside',
+    'Bay',
+    'Spring',
+    'Bayshore',
+    'Sands',
+    'Mule Café',
+    'Hunting Café',
+    'Cliffs',
+    'Hollow'
+]
+
